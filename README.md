@@ -1,10 +1,11 @@
 # Week-0-materials
 
 Google Slides used:
-
-<a href src="https://docs.google.com/presentation/d/1EGGga7zJk5UibGkFe2rIj8TErWR0LwI_8_rOjzkrqlo/edit?usp=sharing"> Python Slides </a>  
-<a href src="https://docs.google.com/presentation/d/15FfFp5yB291TDREl09nRohRYMqkYkcUN3UOHqIXeaKY/edit?usp=sharing"> Math Slides </a>  
-<a href src="https://docs.google.com/presentation/d/1RM6AqG0cPHtkzF2Wqt1p85Ch0dILqY4LnPdciLNWN9A/edit?usp=sharing"> Stats Slides </a>  
+  
+[Python Slides](https://docs.google.com/presentation/d/1EGGga7zJk5UibGkFe2rIj8TErWR0LwI_8_rOjzkrqlo/edit?usp=sharing)
+ 
+[Math Slides](https://docs.google.com/presentation/d/15FfFp5yB291TDREl09nRohRYMqkYkcUN3UOHqIXeaKY/edit?usp=sharing)
+[Stats Slides](https://docs.google.com/presentation/d/1RM6AqG0cPHtkzF2Wqt1p85Ch0dILqY4LnPdciLNWN9A/edit?usp=sharing)
 
 
 Previous Week 0 Topics
