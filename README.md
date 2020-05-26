@@ -9,7 +9,7 @@ Google Slides used:
 [Stats Slides](https://docs.google.com/presentation/d/1RM6AqG0cPHtkzF2Wqt1p85Ch0dILqY4LnPdciLNWN9A/edit?usp=sharing)
 
 
-Previous Week 0 Topics
+Previous Week 0 Schedule
 
 <ins> Wednesday 3/4/2020 - Workflow/environment setup and Python  </ins>
 10:00am - 12:00pm PST:   
