@@ -1,7 +1,7 @@
 # Week-0-materials
 
 Previous Week 0 Topics
-
+<p>
 Wednesday 3/4/2020 - Workflow/environment setup and Python
 10:00am - 12:00pm PST: 
 Introduction to VScode
@@ -10,7 +10,7 @@ GitHub
 Writing python scripts
 2:30pm - 4:30pm PST:
 Python
-
+<p>
 Thursday 3/5/2020 - Statistics
 10:00am - 12:00pm PST: 
 Introduction to sets and set notation
